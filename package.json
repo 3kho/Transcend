@@ -12,6 +12,6 @@
   "description": "Proxy server for Transend",
   "dependencies": {
     "@tomphttp/bare-server-node": "2.0.3",
-    "express": "^4.19.2"
+    "express": "^4.20.0"
   }
 }
